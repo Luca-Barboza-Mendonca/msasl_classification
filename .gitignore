@@ -1,0 +1,6 @@
+train_frames/
+train_videos/
+makecsv.py
+tests.py
+fix.py
+__pycache__/
